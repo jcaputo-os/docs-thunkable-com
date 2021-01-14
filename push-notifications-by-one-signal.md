@@ -34,7 +34,7 @@ However, annoying notifications---those that are irrelevant and too frequent---c
 
 ## Sign up with One Signal
 
-One Signal is a free service that supports unlimited devices and notifications. They make money by selling your users' data to 3rd parties.
+One Signal is a free service that supports unlimited devices and notifications.
 
 * Go to [One Signal](https://onesignal.com/) and sign up for an account
 
